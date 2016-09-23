@@ -1,0 +1,11 @@
+---
+title:  "Welcome!"
+date:   2016-01-08 15:04:23
+categories: [general]
+tags: [about]
+---
+Hey!
+I am second year student at IIT kharagpur. Officially a Chemical Engineering student. But Really? I make Robots and IoT devices, budding web developer and an avid competitive programmer.
+This is the first post of my personal website that I'll use to share my experience in everything from Robotics, Competetive Programming, Web and Open Source development, Music and even Food.
+
+Stay Tuned!
