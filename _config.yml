@@ -9,9 +9,10 @@ baseurl: '/'
 author:
   name: 'Shivang Agrawal'
   email: shivang1997agrawal@gmail.com
-  facebook_username: crazyshivang
+  facebook_username: shivangagrwl
   github_username:  shivangag
   linkedin_username:  shivangag
+  CV: "https://github.com/shivangag/LaTex-Resume/blob/master/CV.pdf"
 
 defaults:
   -
@@ -35,4 +36,4 @@ kramdown:
   hard_wrap: false
 
 gems: ['jekyll-paginate']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', CNAME, shivangag.sublime-project]
